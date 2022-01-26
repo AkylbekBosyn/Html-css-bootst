@@ -1,0 +1,55 @@
+.head{
+    display: flex;
+}
+.kaz{
+    display: flex;
+    word-spacing: 50 px;
+}
+
+
+.link:hover{
+    color: crimson;
+}
+.lii:hover{
+    color:crimson
+
+}
+.lai:hover{
+    color:crimson
+}
+.lah:hover{
+    color:crimson
+}
+.last:hover{
+    color:crimson
+}
+.lass:hover{
+    color:crimson
+}
+.lasf:hover{ 
+    color:crimson      
+}
+.imgg{
+    margin-right: 1000px;
+    padding-bottom: 1000px;
+
+}
+
+body{
+    background-color: rgb(160, 134, 85);
+}
+.Akyl{
+    width: 400px;
+    height: 200px;
+    margin: auto;
+}
+.AK-47{
+    color: rgb(109, 11, 11);
+}
+.Mk{
+    color: black;
+}
+body{
+    background: url("https://investments.academic.ru/pictures/investments/img1949368_Mirovyie_valyutyi_v_mezhdunarodnoy_valyutnoy_sisteme.jpg") center no-repeat;
+    background-size: cover;
+}
